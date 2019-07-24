@@ -1,0 +1,32 @@
+
+.public-center
+{
+    margin-top: 40px;
+    text-align:center;
+}
+
+.title-name
+{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 40px;
+    width: 200px;
+}
+.hr-line
+{
+    margin: 0 auto;
+    text-align: center;
+    background: blue;
+    height: 5px;
+    width: 0px;
+    border:none;
+    transition : width  1s linear 0s;
+    -moz-transition:width 1s linear 0s; /* Firefox 4 */
+    -webkit-transition:width 1s linear 0s; /* Safari and Chrome */
+    -o-transition:width 1s linear 0s; /* Opera */
+}
+
+.hr-line:hover
+{
+    width:400px;
+}
