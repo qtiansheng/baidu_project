@@ -1,7 +1,8 @@
 
 function change() {
+    var len = window.document.getElementById("text-id").offsetWidth + "px";
     window.document.getElementById("text-id").style.color = "blue";
-    window.document.getElementById("line-id").style.width ="300px";
+    window.document.getElementById("line-id").style.width = len;
 }
 
 function outbutton() {
