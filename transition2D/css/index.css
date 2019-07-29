@@ -1,0 +1,123 @@
+
+.box0 {
+    margin-left: 10px;
+    width: 60px;
+    height: 68px;
+    background-color: #f7f6f6;
+    border: 1px solid #ebebeb;
+    display: inline-block;
+
+    font-size: 18px;
+    line-height: 58px;
+    color: #000000;
+    font-family: "F ZY OU H_508 R";
+    text-align: center;
+}
+
+.box1 {
+    margin-left: 10px;
+    width: 60px;
+    height: 68px;
+    background-color: #f7f6f6;
+    border: 1px solid #ebebeb;
+    display: inline-block;
+
+    font-size: 18px;
+    line-height: 58px;
+    color: #000000;
+    font-family: "F ZY OU H_508 R";
+    text-align: center;
+
+    transform: skew(30deg, 0deg);
+    -ms-transform: skew(30deg, 0deg); /* IE 9 */
+    -webkit-transform: skew(30deg, 0deg); /* Safari and Chrome */
+    -moz-transform: skew(30deg, 0deg); /* Firefox */
+    -o-transform: skew(30deg, 0deg); /* Opera */
+}
+
+.box2 {
+    margin-left: 10px;
+    width: 60px;
+    height: 68px;
+    background-color: #f7f6f6;
+    border: 1px solid #ebebeb;
+    display: inline-block;
+
+    font-size: 18px;
+    line-height: 58px;
+    color: #000000;
+    font-family: "F ZY OU H_508 R";
+    text-align: center;
+
+    transform: scale(0.5, 1);
+    -ms-transform: scale(0.5, 1); /* IE 9 */
+    -webkit-transform: scale(0.5, 1); /* Safari and Chrome */
+    -moz-transform: scale(0.5, 1); /* Firefox */
+    -o-transform: scale(0.5, 1); /* Opera */
+}
+
+
+.box3 {
+    margin-left: 10px;
+    width: 60px;
+    height: 68px;
+    background-color: #f7f6f6;
+    border: 1px solid #ebebeb;
+    display: inline-block;
+
+    font-size: 18px;
+    line-height: 58px;
+    color: #000000;
+    font-family: "F ZY OU H_508 R";
+    text-align: center;
+
+    transform: rotate(45deg);
+    -ms-transform: rotate(45deg); /* IE 9 */
+    -webkit-transform: rotate(45deg); /* Safari and Chrome */
+    -moz-transform: rotate(45deg); /* Firefox */
+    -o-transform: rotate(45deg); /* Opera */
+}
+
+
+.box4 {
+    margin-left: 10px;
+    width: 60px;
+    height: 68px;
+    background-color: #f7f6f6;
+    border: 1px solid #ebebeb;
+    display: inline-block;
+
+    font-size: 18px;
+    line-height: 58px;
+    color: #000000;
+    font-family: "F ZY OU H_508 R";
+    text-align: center;
+
+    transform: translate(10px, 20px);
+    -ms-transform: translate(10px, 20px); /* IE 9 */
+    -webkit-transform: translate(10px, 20px); /* Safari and Chrome */
+    -moz-transform: translate(10px, 20px); /* Firefox */
+    -o-transform: translate(10px, 20px); /* Opera */
+}
+
+
+.box5 {
+    margin-left: 10px;
+    width: 60px;
+    height: 68px;
+    background-color: #f7f6f6;
+    border: 1px solid #ebebeb;
+    display: inline-block;
+
+    font-size: 18px;
+    line-height: 58px;
+    color: #000000;
+    font-family: "F ZY OU H_508 R";
+    text-align: center;
+
+    transform: skew(30deg, 0deg) scale(0.5, 1) rotate(45deg) translate(10px, 20px);
+    -ms-transform: skew(30deg, 0deg) scale(0.5, 1) rotate(45deg) translate(10px, 20px); /* IE 9 */
+    -webkit-transform: skew(30deg, 0deg) scale(0.5, 1) rotate(45deg) translate(10px, 20px); /* Safari and Chrome */
+    -moz-transform: skew(30deg, 0deg) scale(0.5, 1) rotate(45deg) translate(10px, 20px); /* Firefox */
+    -o-transform: skew(30deg, 0deg) scale(0.5, 1) rotate(45deg) translate(10px, 20px); /* Opera */
+}
