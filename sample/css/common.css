@@ -1,0 +1,33 @@
+
+.public-header {
+    height: 110px;
+}
+
+.public-header.header-logo{
+    float: left;
+    margin-top: 40px;
+    width:182px;
+    heigh:54px;
+}
+
+.public-header.header-nav{
+    float: right;
+    font-size:14px;
+}
+
+.public-header.header-nav.item{
+    float: left;
+    margin-top: 44px;
+    margin-left:50px;
+}
+.public-container {
+    position: relative;
+    margin: 0 auto;
+    background: #006dcc;
+    width: 1100px;
+}
+
+.public-footer {
+    height: 318px;
+    background: #3b3b3b;
+}
